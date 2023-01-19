@@ -1,0 +1,34 @@
+$zindex-dropdown:                   1000;
+$zindex-sticky:                     1020;
+$zindex-fixed:                      1030;
+$zindex-offcanvas-backdrop:         1040;
+$zindex-offcanvas:                  1045;
+$zindex-modal-backdrop:             1050;
+$zindex-modal:                      1055;
+$zindex-popover:                    1070;
+$zindex-tooltip:                    1080;
+$zindex-toast:                      1090;
+$bg--coolor:#000;
+$colors:#fff;
+$section1:#fbfbfd;
+$watch:#fd6a13;
+$section4-color-r: #f5f5f7;
+$section4-color-l: #fbfbfd;
+.bg-color{
+    background-color: $bg--coolor;
+}
+.section-bg{
+    background-color: $section1;
+}
+.watch{
+    color: $watch;
+}
+.h1-watch{
+    color: $bg--coolor;
+}
+.section4-color-l{
+    background-color: $section4-color-l;
+}
+.section4-color-r{
+    background-color: $section4-color-r;
+}
